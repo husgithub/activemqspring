@@ -8,7 +8,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class AppConsumer {
 
     public static void main(String[] args) {
-        //
+        //安抚
         ClassPathXmlApplicationContext applicationContext = new ClassPathXmlApplicationContext("consumer.xml");
 
 
